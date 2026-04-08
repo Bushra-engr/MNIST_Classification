@@ -14,41 +14,7 @@ A beautiful Streamlit web application that allows users to draw handwritten digi
 - 🔍 **Debug View** - See the preprocessed 28x28 image that the model sees
 - 🌙 **Beautiful Dark Theme** - Modern gradient dark UI design
 - 🗑️ **Clear Canvas** - Reset and start fresh
-
-## 🚀 Demo
-
-Draw a digit in the canvas and watch the AI predict it in real-time!
-
-## 📦 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/MNIST-Digit-Recognizer.git
-cd MNIST-Digit-Recognizer
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the app:
-```bash
-streamlit run app.py
-```
-
-4. Open your browser at `http://localhost:8501`
-
-## 📋 Requirements
-
-- Python 3.8+
-- streamlit
-- streamlit-drawable-canvas
-- plotly
-- pillow
-- scikit-learn
-- numpy
-
+ 
 ## 🧠 Model
 
 The application uses a **Logistic Regression** model trained on the MNIST dataset:
@@ -82,14 +48,3 @@ MNIST/
 - [scikit-learn](https://scikit-learn.org/) - Machine Learning
 - [streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas) - Drawing component
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
----
-
-Made with ❤️ using Python and Streamlit
