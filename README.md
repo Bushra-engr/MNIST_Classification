@@ -2,9 +2,7 @@
 
 A beautiful Streamlit web application that allows users to draw handwritten digits and get real-time predictions using a Machine Learning model trained on the MNIST dataset.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 ## ✨ Features
 
